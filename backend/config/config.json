@@ -1,6 +1,6 @@
 {
   "host": "localhost",
   "user": "root",
-  "database": "groceries",
+  "database": "aluno1",
   "password": "password"
 }
